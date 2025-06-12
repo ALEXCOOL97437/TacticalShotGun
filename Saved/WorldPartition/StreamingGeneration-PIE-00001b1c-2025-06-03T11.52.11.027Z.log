@@ -1,0 +1,75 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:24FEB1374A07BDABF27F528E2333B4A0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1657920671 Label:TextRenderActor13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4966.900 Y=265.000 Z=303.013), Max=(X=5232.285 Y=265.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2619C3A242E1862F28515D9AD8A6012D BaseClass:/Game/ThirdPerson/Animations/HandGun/BP/BP_Gun01Right7.BP_Gun01Right7_C NativeClass:/Script/Engine.Character Name:BP_Gun01Right7_C_UAID_B00CD162E1E7826E02_1814016537 Label:BP_Gun01Right7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4883.000 Y=1293.000 Z=99.854), Max=(X=4955.591 Y=1363.000 Z=280.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2E750C50489B3E02AA11F9B27DE92115 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C56402_1086047861 Label:TextRenderActor15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8248.900 Y=267.000 Z=303.013), Max=(X=8877.746 Y=267.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4412.000 Y=1070.000 Z=0.013), Max=(X=4492.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4326FAF242D8278D84A995BF5FF8553C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1601928670 Label:TextRenderActor12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7226.900 Y=265.000 Z=780.013), Max=(X=8819.208 Y=265.000 Z=1230.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:547E0D7742DBC5542F3D43932B12984D BaseClass:/Game/ThirdPerson/Animations/HandGun/BP/BP_GunLeft7.BP_GunLeft7_C NativeClass:/Script/Engine.Character Name:BP_GunLeft7_C_UAID_B00CD162E1E7826E02_1825595538 Label:BP_GunLeft7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5171.000 Y=1337.000 Z=99.854), Max=(X=5243.591 Y=1407.000 Z=280.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7D0713CD450374B1100516B8F65D9A91 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C56402_1241983868 Label:TextRenderActor16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9983.900 Y=268.000 Z=303.013), Max=(X=10549.285 Y=268.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C47B4542485BCD2E7651FF8FC3091A71 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1937835678 Label:TextRenderActor14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6503.900 Y=266.000 Z=303.013), Max=(X=7369.285 Y=266.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=14000.000 Y=18000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:24FEB1374A07BDABF27F528E2333B4A0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1657920671 Label:TextRenderActor13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4966.900 Y=265.000 Z=303.013), Max=(X=5232.285 Y=265.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:C47B4542485BCD2E7651FF8FC3091A71 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1937835678 Label:TextRenderActor14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6503.900 Y=266.000 Z=303.013), Max=(X=7369.285 Y=266.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:4326FAF242D8278D84A995BF5FF8553C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C46402_1601928670 Label:TextRenderActor12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7226.900 Y=265.000 Z=780.013), Max=(X=8819.208 Y=265.000 Z=1230.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=14000.000 Y=18000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:7D0713CD450374B1100516B8F65D9A91 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C56402_1241983868 Label:TextRenderActor16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9983.900 Y=268.000 Z=303.013), Max=(X=10549.285 Y=268.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4412.000 Y=1070.000 Z=0.013), Max=(X=4492.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2E750C50489B3E02AA11F9B27DE92115 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7C56402_1086047861 Label:TextRenderActor15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8248.900 Y=267.000 Z=303.013), Max=(X=8877.746 Y=267.000 Z=453.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2619C3A242E1862F28515D9AD8A6012D BaseClass:/Game/ThirdPerson/Animations/HandGun/BP/BP_Gun01Right7.BP_Gun01Right7_C NativeClass:/Script/Engine.Character Name:BP_Gun01Right7_C_UAID_B00CD162E1E7826E02_1814016537 Label:BP_Gun01Right7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4883.000 Y=1293.000 Z=99.854), Max=(X=4955.591 Y=1363.000 Z=280.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:547E0D7742DBC5542F3D43932B12984D BaseClass:/Game/ThirdPerson/Animations/HandGun/BP/BP_GunLeft7.BP_GunLeft7_C NativeClass:/Script/Engine.Character Name:BP_GunLeft7_C_UAID_B00CD162E1E7826E02_1825595538 Label:BP_GunLeft7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5171.000 Y=1337.000 Z=99.854), Max=(X=5243.591 Y=1407.000 Z=280.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 27 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+

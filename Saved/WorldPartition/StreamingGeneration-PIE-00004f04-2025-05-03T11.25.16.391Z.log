@@ -1,0 +1,105 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:08CCE1C94A8D55D4BA7ABB8C261642AB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1114572425 Label:Anim_Healing10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1204.074 Y=987.115 Z=117.390), Max=(X=1263.875 Y=1041.857 Z=292.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:12A7B4A741A410722EEB9E8EA020A593 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1106899422 Label:Anim_Healing07 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=477.296 Y=1045.753 Z=111.704), Max=(X=538.360 Y=1135.975 Z=218.964) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:14334BF44573F4A23634ABBFEFAF8A90 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1109690423 Label:Anim_Healing08 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=703.635 Y=945.754 Z=111.711), Max=(X=764.708 Y=1035.968 Z=218.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:185A510A4D29AEE8C4A8E38C359696DB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1125177429 Label:Anim_Healing14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=664.207 Y=1386.766 Z=117.389), Max=(X=736.890 Y=1421.887 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2BCAD4614E70CFFAFC8068A40E0AE6EC BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1112086424 Label:Anim_Healing09 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=966.127 Y=1079.118 Z=117.393), Max=(X=1025.933 Y=1133.696 Z=292.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:507385E746248E43092081B9C62BBB0A BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1123118428 Label:Anim_Healing13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=461.811 Y=1478.766 Z=117.392), Max=(X=534.471 Y=1514.084 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5B53A0C04EE9568CD3441D9C01FEFA39 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2125610239 Label:Anim_Healing01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=473.970 Y=683.724 Z=117.511), Max=(X=542.759 Y=719.911 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=467.900 Y=263.000 Z=621.013), Max=(X=1817.900 Y=263.000 Z=771.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:66F8A19146DADDEE28D91DA6CBC718B1 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2138735241 Label:Anim_Healing03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.970 Y=685.724 Z=117.511), Max=(X=1019.760 Y=721.911 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8AE000E54C3076E215D884BBD2EEE2A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2142081242 Label:Anim_Healing04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1197.965 Y=576.728 Z=117.510), Max=(X=1266.755 Y=612.916 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8B0A9236438C36CEA68C73B75C8D6242 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2135321240 Label:Anim_Healing02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=689.963 Y=576.727 Z=117.511), Max=(X=758.754 Y=612.919 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:998557224E9B06EEC430CEAC65EE77A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1075845420 Label:Anim_Healing06 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1699.293 Y=560.779 Z=117.430), Max=(X=1778.727 Y=632.645 Z=259.996) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C049D026446CC334CA4B909052FAB52D BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1127152430 Label:Anim_Healing15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=948.018 Y=1456.328 Z=111.097), Max=(X=1027.536 Y=1555.306 Z=229.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C1D14332470ED463F235A697BAF46CEA BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1129541431 Label:Anim_Healing16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1236.456 Y=1321.338 Z=111.093), Max=(X=1315.987 Y=1420.303 Z=229.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D85104764019B5A9D0D83681560A9400 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2146810243 Label:Anim_Healing05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1450.239 Y=666.817 Z=117.420), Max=(X=1529.700 Y=738.643 Z=260.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EC402312471AA375CE178292B4613A5C BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1119234427 Label:Anim_Healing12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1751.206 Y=980.771 Z=117.389), Max=(X=1823.890 Y=1015.893 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=10000.000 Y=11666.666 Z=116.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:F8D6117848892EF0D89E18A7097C47E8 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1117017426 Label:Anim_Healing11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1453.813 Y=1086.776 Z=117.392), Max=(X=1526.474 Y=1122.084 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=467.900 Y=263.000 Z=621.013), Max=(X=1817.900 Y=263.000 Z=771.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=10000.000 Y=11666.666 Z=116.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:5B53A0C04EE9568CD3441D9C01FEFA39 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2125610239 Label:Anim_Healing01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=473.970 Y=683.724 Z=117.511), Max=(X=542.759 Y=719.911 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:8B0A9236438C36CEA68C73B75C8D6242 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2135321240 Label:Anim_Healing02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=689.963 Y=576.727 Z=117.511), Max=(X=758.754 Y=612.919 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:66F8A19146DADDEE28D91DA6CBC718B1 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2138735241 Label:Anim_Healing03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.970 Y=685.724 Z=117.511), Max=(X=1019.760 Y=721.911 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:8AE000E54C3076E215D884BBD2EEE2A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2142081242 Label:Anim_Healing04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1197.965 Y=576.728 Z=117.510), Max=(X=1266.755 Y=612.916 Z=298.155) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:D85104764019B5A9D0D83681560A9400 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C26402_2146810243 Label:Anim_Healing05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1450.239 Y=666.817 Z=117.420), Max=(X=1529.700 Y=738.643 Z=260.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:998557224E9B06EEC430CEAC65EE77A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1075845420 Label:Anim_Healing06 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1699.293 Y=560.779 Z=117.430), Max=(X=1778.727 Y=632.645 Z=259.996) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:12A7B4A741A410722EEB9E8EA020A593 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1106899422 Label:Anim_Healing07 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=477.296 Y=1045.753 Z=111.704), Max=(X=538.360 Y=1135.975 Z=218.964) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:14334BF44573F4A23634ABBFEFAF8A90 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1109690423 Label:Anim_Healing08 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=703.635 Y=945.754 Z=111.711), Max=(X=764.708 Y=1035.968 Z=218.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:2BCAD4614E70CFFAFC8068A40E0AE6EC BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1112086424 Label:Anim_Healing09 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=966.127 Y=1079.118 Z=117.393), Max=(X=1025.933 Y=1133.696 Z=292.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:08CCE1C94A8D55D4BA7ABB8C261642AB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1114572425 Label:Anim_Healing10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1204.074 Y=987.115 Z=117.390), Max=(X=1263.875 Y=1041.857 Z=292.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:F8D6117848892EF0D89E18A7097C47E8 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1117017426 Label:Anim_Healing11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1453.813 Y=1086.776 Z=117.392), Max=(X=1526.474 Y=1122.084 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:EC402312471AA375CE178292B4613A5C BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1119234427 Label:Anim_Healing12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1751.206 Y=980.771 Z=117.389), Max=(X=1823.890 Y=1015.893 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:507385E746248E43092081B9C62BBB0A BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1123118428 Label:Anim_Healing13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=461.811 Y=1478.766 Z=117.392), Max=(X=534.471 Y=1514.084 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:185A510A4D29AEE8C4A8E38C359696DB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1125177429 Label:Anim_Healing14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=664.207 Y=1386.766 Z=117.389), Max=(X=736.890 Y=1421.887 Z=297.313) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:C049D026446CC334CA4B909052FAB52D BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1127152430 Label:Anim_Healing15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=948.018 Y=1456.328 Z=111.097), Max=(X=1027.536 Y=1555.306 Z=229.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:C1D14332470ED463F235A697BAF46CEA BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7C36402_1129541431 Label:Anim_Healing16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1236.456 Y=1321.338 Z=111.093), Max=(X=1315.987 Y=1420.303 Z=229.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 50 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
